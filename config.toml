@@ -130,6 +130,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
 
+  [params.utterances]       # https://utteranc.es/
+    owner = "time-river"              # Your GitHub ID
+    repo = "misty.life"               # The repo to store comments
+
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
     repo = ""               # The repo to store comments
@@ -156,7 +160,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    #a-email = "mailto:"
+    a-email = "mailto:river@vvl.me"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
