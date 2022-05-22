@@ -1,7 +1,6 @@
 ---
 title: 晨光之熹微
 date: 2017-03-25T22:16:45+08:00
-tags: [local movies]
 ---
 
 > <center>序</center>

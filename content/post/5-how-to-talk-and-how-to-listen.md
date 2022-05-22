@@ -1,7 +1,6 @@
 ---
 title: How to talk and how to listen
 date: 2016-06-14T23:57:54+08:00
-categories: [local movies]
 ---
 
 Umm, after watching a TED speech, about _how to become a better conversationalist?_. I think, I should write some points.

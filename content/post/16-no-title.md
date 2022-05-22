@@ -2,7 +2,6 @@
 title: "近期的胡思乱想"
 date: 2022-05-22T20:28:48+08:00
 draft: false
-tags: ["review"]
 ---
 
 {{< music id="1949644351" auto="0" >}}

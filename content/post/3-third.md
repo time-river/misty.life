@@ -1,7 +1,6 @@
 ---
 title: 脚印 ‧ 三
 date: 2016-04-27T23:37:43+08:00
-categories: [local movies]
 ---
 
 我想，这篇存在是源于某人的。

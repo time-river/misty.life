@@ -1,7 +1,6 @@
 ---
 title: 脚印 ‧ 一
 date: 2016-03-20T22:11:12+08:00
-categories: [local movies]
 ---
 
 疲惫，无法言语的疲惫。
